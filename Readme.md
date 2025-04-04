@@ -1,0 +1,1 @@
+This code implements an autoencoder to reconstruct MNIST digit images, comprising an encoder that reduces the dimension to latent space (latent_dim) and a decoder that regenerates the original image. Training minimizes the squared error (MSE) between input images and reconstructions, with periodic visual backups to compare results.
